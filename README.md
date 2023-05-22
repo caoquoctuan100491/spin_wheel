@@ -1,1 +1,1 @@
-# spin_wheel
+# game_spinwheel_lottery
